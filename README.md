@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on : **Full Stack Web Development**
 
-- 🌱 I’m currently learning  :  **Data Structors and Algorithms**
+- 🌱 I’m currently learning  :  **Data Structures and Algorithms**
 
 - :nerd_face: Find my projects here : [ projects list ]()
 

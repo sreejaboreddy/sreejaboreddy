@@ -1,9 +1,7 @@
-<h1><img src=https://visme.co/blog/wp-content/uploads/2019/09/interactive-presentation-header-wide.gif?raw=true width="100%" height="100%" /></h1><hr>
+<h1><img src=https://visme.co/blog/wp-content/uploads/2019/09/interactive-presentation-header-wide.gif?raw=true width="100%" height="100%" /></h1>
 <h1 align="center"> Hi 👋, I'm Boreddy Sreeja </h1>
 <hr>
 
-
-#### Profile Visits :
 <a href="https://linkedin.com/in/sreeja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreeja" height="30" width="40" /></a>
 </p>
 
@@ -16,7 +14,7 @@
 
 - 🔭 I’m currently working on : **Full Stack Web Development**
 
-- 🌱 I’m currently learning  :  **React and Mongo DB**
+- 🌱 I’m currently learning  :  **Data Structors and Algorithms**
 
 - :nerd_face: Find my projects here : [ projects list ]()
 

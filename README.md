@@ -1,3 +1,4 @@
+<h1><img src=https://github.com/AshishPal18/BANNER/blob/master/Banner.png?raw=true width="100%" height="100%" /></h1>
 ## Hi 👋, I'm Boreddy Sreeja 
 
 

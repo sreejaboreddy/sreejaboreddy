@@ -2,9 +2,6 @@
 <h1 align="center"> Hi 👋, I'm Boreddy Sreeja </h1>
 <hr>
 
-<a href="https://linkedin.com/in/sreeja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreeja" height="30" width="40" /></a>
-</p>
-
 
  <img src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif" align="right"  width="42%"/>
 
@@ -26,6 +23,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejaboreddy&label=Profile%20views&color=0e75b6&style=flat" alt="sreejaboreddy" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/sreeja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreeja" height="30" width="40" /></a>
+</p>
 <p align="left">
 
 

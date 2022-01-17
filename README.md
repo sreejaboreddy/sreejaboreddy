@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning  :  **Data Structures and Algorithms**
 
-- :nerd_face: Find my projects here : [ projects list ]()
+- :nerd_face: Find my projects here : https://github.com/sreejaboreddy/Projects
 
 - 👯 Open to :  **collaborate**
 

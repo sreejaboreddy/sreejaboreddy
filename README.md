@@ -1,5 +1,5 @@
 <h1><img src=https://visme.co/blog/wp-content/uploads/2019/09/interactive-presentation-header-wide.gif?raw=true width="100%" height="100%" /></h1>
-## Hi 👋, I'm Boreddy Sreeja 
+<h1 align="center"> Hi 👋, I'm Boreddy Sreeja </h1>
 
 
 

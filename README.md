@@ -17,9 +17,9 @@
 
 - :nerd_face: Find my projects here : [ projects list ]()
 
-- 👯 Open to **collaborate**
+- 👯 Open to :  **collaborate**
 
-- 💼 Actively Seeking **internship opportunities**
+- 💼 Actively Seeking : **internship opportunities**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/sreeja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreeja" height="30" width="40" /></a>

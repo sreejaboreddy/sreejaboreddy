@@ -1,4 +1,4 @@
-<h1><img src=https://user-images.githubusercontent.com/53362962/90226721-0a8d0800-de31-11ea-8fe6-bbce5ae74a3c.gif?raw=true width="30%" height="100%" /></h1>
+<h1><img src=https://user-images.githubusercontent.com/53362962/90226721-0a8d0800-de31-11ea-8fe6-bbce5ae74a3c.gif?raw=true width="40%" height="100%" /></h1>
 ## Hi 👋, I'm Boreddy Sreeja 
 
 
